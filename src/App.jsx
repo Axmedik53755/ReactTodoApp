@@ -20,7 +20,7 @@ function App() {
     console.log(id)
   }
 
-
+  // Handle click
   function handleClick(e) {
     console.log(todos)
     if (!todo == '') {
